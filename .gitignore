@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+product_units*.csv
